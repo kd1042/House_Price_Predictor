@@ -15,4 +15,8 @@ no of rooms etc.
 """)
 
 st.write("""The app uses a linear regression model from scikit-learn to predict the price for the house.
-         more info on how data was processed can be found from following """)
+         more info on how data was processed can be found from following (https://github.com/kd1042/House_Price_Predictor/blob/main/HousePricePrediction.ipynb)""")
+
+
+st.write("""### GITHUB""")
+st.write("""(https://github.com/kd1042/House_Price_Predictor)""")
